@@ -1,0 +1,27 @@
+{
+  "name": "fullstack-learning_with_egor",
+  "version": "1.0.0",
+  "description": "2-недельный интенсив по Fullstack: JavaScript/TypeScript → React → Node/Nest. Ежедневная практика, вопросы, домашки. Репозиторий для обучения с преподавателем Егором.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PAvEKHl/fullstack-learning-2weeks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PAvEKHl/fullstack-learning-2weeks/issues"
+  },
+  "homepage": "https://github.com/PAvEKHl/fullstack-learning-2weeks#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.23.1",
+    "typescript": "^7.0.2"
+  }
+}
